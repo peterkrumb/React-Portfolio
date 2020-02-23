@@ -12,7 +12,7 @@ class Nav extends React.Component {
           </div>
           
           
-          <div class="main">
+          {/* <div class="main">
           <section id="about">
       <div>
         <h1>Peter
@@ -38,7 +38,7 @@ class Nav extends React.Component {
         </div>
       </div>
     </section>
-          </div>
+          </div> */}
           </div>
         )
     }
