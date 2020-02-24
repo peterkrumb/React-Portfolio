@@ -20,16 +20,14 @@ class About extends React.Component {
                         and learning in general. I love a challenge and this bootcamp has re-acquainted me with the learning process again. </p>
                         </section>
                 <div class="social-icons">
-          <a href="#">
+                   
+          <a href="http://www.linkedin.com/in/peter-krumb-0969a49a">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href="#">
+          <a href="https://github.com/peterkrumb">
             <i class="fab fa-github"></i>
           </a>
-          <a href="#">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
+          <a href="http://www.facebook.com/krumbdiggity">
             <i class="fab fa-facebook-f"></i>
           </a>
         </div>
