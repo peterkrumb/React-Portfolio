@@ -4,9 +4,9 @@ import Project from '../Project'
 class Projects extends React.Component{
     render() {
         return(
-            <div>
+            <>
             <Project />
-            </div>
+            </>
         )
     }
 }

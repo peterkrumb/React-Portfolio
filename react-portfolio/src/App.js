@@ -8,17 +8,18 @@ import './index.css'
 import Education from './components/pages/Education';
 import Skills from './components/pages/Skills';
 import Projects from './components/pages/Projects';
+import Footer from './components/Footer';
 
 function App () {
   return(
     <Router>
-    <div>
+    
     <Nav /> 
     <Route exact path="/" component={About} />
     <Route exact path="/Education" component={Education} />
     <Route exact path="/Skills" component={Skills} />
     <Route exact path="/Projects" component={Projects} />
-    </div>
+    <Footer />
     </Router>
   )
   };
