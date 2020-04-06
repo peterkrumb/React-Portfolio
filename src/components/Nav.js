@@ -8,7 +8,7 @@ function Nav() {
   const location = useLocation();
         return(<div>
             <div class="sidenav">
-            <Link to="/">Home</Link>
+            <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>Home</Link>
             <Link to="/Education"  className={location.pathname === "/Education" ? "nav-link active" : "nav-link"}>Education</Link>
             <Link to="/Skills"  className={location.pathname === "/Skills" ? "nav-link active" : "nav-link"}>Skills</Link>
             <Link to="/Projects"  className={location.pathname === "/Projects" ? "nav-link active" : "nav-link"}>Projects</Link>
