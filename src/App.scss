@@ -10,10 +10,22 @@
   padding-top: 20px;
 }
 
-@media screen and (min-width: 700px) {
+img{
+  max-width: 100%;
+}
+
+section.resume-section {
+  padding: 0px 22px 0px 197px ;
+}
+
+@media (min-width: 700px) {
   .sidenav {
     position: fixed;
   }
+}
+
+section.resume-section {
+  padding: 0px 22px 0px 197px ;
 }
 
 .sidenav a {
@@ -37,12 +49,18 @@
   padding: 0px 10px;
 }
 
-@media screen and (max-width: 700px) {
+@media (max-width: 700px) {
+
+  section.resume-section {
+    min-height: 100vh;
+    padding: 0px 22px 0px 70px !important;
+  }
   .sidenav {
     width: 100%;
     height: auto;
     position: relative;
     padding-bottom: 20px;
+    line-height: 29px;
   }
 
   .project-info {
@@ -66,15 +84,23 @@
   }
 }
 
+@media (max-width: 767px) {
+  .resume-item{
+
+    line-height: 56px;
+  }
+}
+
 @media screen and (max-width: 400px) {
   .sidenav a {
     text-align: center;
     float: none;
   }
 }
-@media screen and (min-width: 700px) {
+@media (min-width: 700px) {
   section.resume-section {
     min-height: 100vh;
+    padding: 0px 22px 0px 197px ;
   }
   .project-info {
     padding: 21px 36px 0px 213px;
@@ -160,7 +186,7 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
-  padding: 0px 22px 0px 197px !important;
+  padding: 0px 22px 0px 197px ;
 }
 
 .w-100 {

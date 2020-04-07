@@ -9,7 +9,7 @@ function Project() {
           My first project was designed to showcase my knowledge of APIs as well
           as basic HTML, CSS, and JavaScript concepts. Our requirements were to
           pick virtually any 2 APIs and make a website from it. The APIs would
-          have to be instructor approved My partner and I chose for this project
+          have to be instructor approved. My partner and I chose for this project
           to use Giphy API as well as an API for basketball stats called
           BallDontLie. Originally we set out to use Youtube to render a
           highlight reel for a player when their name was typed in the search

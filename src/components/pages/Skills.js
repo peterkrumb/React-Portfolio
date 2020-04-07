@@ -4,7 +4,7 @@ class Skills extends React.Component {
   render() {
     return (
       <section
-        class="resume-section p-3 p-lg-5 d-flex align-items-center"
+        class="resume-section"
         id="skills"
       >
         <div class="w-100">
@@ -13,41 +13,41 @@ class Skills extends React.Component {
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
           <ul class="list-inline dev-icons">
             <li class="list-inline-item">
-              <i class="fab fa-html5"></i>
+              <i class="devicon-html5-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
-              <i class="fab fa-css3-alt"></i>
+            <i class="devicon-css3-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
               <i class="fab fa-js-square"></i>
             </li>
             <li class="list-inline-item">
-            <i class="devicon-sass-original"></i>
+              <i class="devicon-sass-original"></i>
             </li>
             <li class="list-inline-item">
-              <i class="devicon-jquery-plain"></i>
+              <i class="devicon-jquery-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
-              <i class="fab fa-react"></i>
+              <i class="devicon-react-original-wordmark"></i>
             </li>
             <li class="list-inline-item">
-              <i class="fab fa-node-js"></i>
+              <i class="devicon-nodejs-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
-            <i class="devicon-mongodb-plain"></i>
+              <i class="devicon-mongodb-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
-            <i class="devicon-mysql-plain"></i>
-            </li>
-            <li class='list-inline-item'>
-            <i class="devicon-sequelize-plain"></i>
+              <i class="devicon-mysql-plain-wordmark"></i>
             </li>
             <li class="list-inline-item">
-              <i class="fab fa-github"></i>
+              <i class="devicon-sequelize-plain-wordmark"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-github-plain-wordmark"></i>
             </li>
 
             <li class="list-inline-item">
-            <i class="devicon-express-original"></i>
+              <i class="devicon-express-original-wordmark"></i>
             </li>
 
             <li class="list-inline-item">
