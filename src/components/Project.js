@@ -9,14 +9,10 @@ function Project() {
           My first project was designed to showcase my knowledge of APIs as well
           as basic HTML, CSS, and JavaScript concepts. Our requirements were to
           pick virtually any 2 APIs and make a website from it. The APIs would
-          have to be instructor approved. My partner and I chose for this project
-          to use Giphy API as well as an API for basketball stats called
-          BallDontLie. Originally we set out to use Youtube to render a
-          highlight reel for a player when their name was typed in the search
-          bar, but we learned that in the span of time we had it might be too
-          difficult since we had to set up a server, so a Gif was rendered to
-          the screen instead. Going into the project we had done about 2 weeks
-          learning HTML and CSS and the rest of the time mostly JavaScript
+          have to be instructor approved. My partner and I chose for this
+          project to use the Youtube Data API as well as an API for basketball
+          stats called BallDontLie. Going into the project we had done about 2
+          weeks learning HTML and CSS and the rest of the time mostly JavaScript
           concepts. The idea of doing an entire project was slightly
           intimidating at first, however when taking into consideration the fact
           that we could choose any concept for the project we wanted to as long
@@ -96,15 +92,16 @@ function Project() {
           project that we overcame, and this was assigning a unique ID, here
           coined as "UUID", to every person who's computer visited the site.
           This was necessary because we weren't at the point of learning yet to
-          implement an entire login function so this became the next step. Initially if a car was saved to a user's garage, it would persist for whoever visited it, since the cars were saved to JawsDB which is an add-on for Heroku, sort of a stand-in database. With the Unique ID, we could generate a unique passcode for each system.
+          implement an entire login function so this became the next step.
+          Initially if a car was saved to a user's garage, it would persist for
+          whoever visited it, since the cars were saved to JawsDB which is an
+          add-on for Heroku, sort of a stand-in database. With the Unique ID, we
+          could generate a unique passcode for each system.
         </p>
         <span>
           Github link:{" "}
-          <a
-            href="https://github.com/peterkrumb/My-Garage"
-            class="git-link"
-          >
-           https://github.com/peterkrumb/My-Garage
+          <a href="https://github.com/peterkrumb/My-Garage" class="git-link">
+            https://github.com/peterkrumb/My-Garage
           </a>
         </span>
         <br></br>
@@ -114,7 +111,7 @@ function Project() {
             href="https://limitless-sands-05500.herokuapp.com/"
             class="git-link"
           >
-           https://limitless-sands-05500.herokuapp.com/
+            https://limitless-sands-05500.herokuapp.com/
           </a>
         </span>
       </section>
@@ -122,13 +119,36 @@ function Project() {
       <br></br>
       <section>
         <h3>Case Study 3: Hero Box</h3>
-        <p>Hero box was my final class project which I worked on with 4 other classmates, and overseen by a TA to help with points of difficulty. This project was intended to be a subscription service for Marvel comic books. It was a complete MERN full stack application, and our first project built from the ground up in React. They say React is supposed to make developers' lives easier, however when you've only been learning it for 2 weeks, it can be quite a struggle building a real world application.
-          
+        <p>
+          Hero box was my final class project which I worked on with 4 other
+          classmates, and it was a subscription service for Marvel comic books.
+          It was a complete MERN (MongoDB, Express, React, Node) full stack
+          application, and our first project built from the ground up in React.
+          They say React is supposed to make developers' lives easier, however
+          when you've only been learning it for 2 weeks, it can be quite a
+          struggle building a large-scale, real world application. I volunteered
+          to work on backend for this project, so I was working with API calls
+          and contributing to developing some of the schemas. Everything had to
+          be factored into components with separate functions which was a new
+          style of doing things. One of the biggest challenges I faced this
+          project was developing a shopping cart. This was more than simply
+          pushing an item to an array, the item or subscription had to persist
+          throughout the application and appear at the final checkout stage. I
+          had to get a decent amount of help understanding props, context, and
+          passing things throughout components, but I came out a better
+          developer from it. What was so great about this project was that it
+          was my first taste of building something in a larger team, and sort of
+          assigning tasks on a larger scale to different members, then dealing
+          with the git workflow of combining everything, doing pull requests,
+          merging, and all that great stuff. What I found exciting was how much
+          free rein we were given in this project. Nobody was going to do this
+          for us, and our end result was directly proportional to how much work
+          we were all willing to put in. The instructor actually was not
+          present, so our TAs came in useful for debugging certain situations.
           <br></br>
           <br></br>
-          
           <br></br>
-          <br></br> 
+          <br></br>
         </p>
         <span>
           Github link:{" "}
@@ -136,7 +156,7 @@ function Project() {
             href="https://github.com/Superb-Owls/Subscription-box"
             class="git-link"
           >
-           https://github.com/Superb-Owls/Subscription-box
+            https://github.com/Superb-Owls/Subscription-box
           </a>
         </span>
         <br></br>
@@ -146,7 +166,7 @@ function Project() {
             href="https://pacific-chamber-07789.herokuapp.com/"
             class="git-link"
           >
-           https://pacific-chamber-07789.herokuapp.com/
+            https://pacific-chamber-07789.herokuapp.com/
           </a>
         </span>
       </section>
