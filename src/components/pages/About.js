@@ -12,16 +12,16 @@ class About extends React.Component {
                 <span class="text-primary"> Krumb</span>
               </h1>
               <div class="subheading mb-5">
-                332 Wesley Ave · Oak Park, IL 60302 · (708) 646-3556 ·
+                Oak Park, IL 60302 · (708) 646-3556 ·
                 <a href="mailto:petekrumb@gmail.com">petekrumb@gmail.com</a>
               </div>
               <section id="main-bio">
                 <p>
                   My name is Peter Krumb, and I am a software developer and
-                  recent graduate of Northwestern University's Full Stack web
-                  development bootcamp. My development skills have included the
-                  basics such as HTML, CSS, and JavaScript, but also expand to
-                  more extensive parts of JavaScript such as Node and React. My
+                  graduate of Northwestern University's Full Stack web
+                  development bootcamp. My development skills include the basics
+                  such as HTML, CSS, and JavaScript but also expand to more
+                  extensive parts of JavaScript such as Node and React. My
                   background is in the hospitality industry, however currently
                   I'm working to break into tech industry as I see much
                   potential for growth, opportunities, and learning in general.
