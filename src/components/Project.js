@@ -68,7 +68,10 @@ function Project() {
       <br></br>
       <section>
         <h3>Case Study 2: Dream Garage</h3>
-        <img src={require("./images/2020-06-17 (2).png")} />
+        <img
+          src={require("./images/2020-06-17 (2).png")}
+          alt="Garage Northwestern"
+        />
         <p>
           By the time I was working on my second project I'd learned a few new
           technologies and design patterns including Node, Handlebars, MySQL and
@@ -120,7 +123,10 @@ function Project() {
       <br></br>
       <section>
         <h3>Case Study 3: Hero Box</h3>
-        <img src={require("./images/2020-03-10.png")} />
+        <img
+          src={require("./images/2020-03-10.png")}
+          alt="Hero Box Northwestern"
+        />
         <p>
           Hero box was my final class project which I worked on with 4 other
           classmates, and it was a subscription service for Marvel comic books.
