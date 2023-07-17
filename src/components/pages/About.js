@@ -17,16 +17,15 @@ class About extends React.Component {
               </div>
               <section id="main-bio">
                 <p>
-                  My name is Peter Krumb, and I am a software developer and
-                  graduate of Northwestern University's Full Stack web
-                  development bootcamp. My development skills include the basics
-                  such as HTML, CSS, and JavaScript but also expand to more
-                  extensive parts of JavaScript such as Node and React. My
-                  background is in the hospitality industry, however currently
-                  I'm working to break into tech industry as I see much
-                  potential for growth, opportunities, and learning in general.
-                  I love a challenge and this bootcamp has re-acquainted me with
-                  the learning process again.{" "}
+                Greetings! Welcome to my world of web development, where passion meets innovation. I am thrilled to share my journey with you.
+
+With an insatiable curiosity for cutting-edge technologies, I find myself continuously captivated by the dynamic world of web development. Armed with a diverse range of programming languages, I strive to create seamless online experiences that push boundaries and captivate users.
+
+One field that particularly excites me is artificial intelligence (AI). The prospect of blending AI with web development opens up limitless possibilities for creating intelligent and adaptive applications. This intersection fascinates me as I explore new ways to bridge the gap between human interaction and advanced technology.
+
+Crafting visually appealing and functional websites is not just a profession for me; it is my passion. Each project I undertake is an opportunity to transform ideas into reality, with user-centered design at the forefront. I am driven by the joy of making a positive impact on users' lives through intuitive interfaces and seamless functionality.
+
+In this space, you will find a showcase of my expertise in responsive web design, efficient backend development, and effective database management. Each project is a testament to my commitment and attention to detail, tailored to meet the unique needs and goals of clients.
                 </p>
               </section>
               <div class="social-icons">
