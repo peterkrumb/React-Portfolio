@@ -1,1 +1,1 @@
-This is my updated portfolio with React. There were a few changes in this format, namely that Components were used in place of the traditional HTML files. There were also routes to every page which were set up differently. Since the portfolio was essentially only HTML and CSS it wasn't much of a pain. Learning to do things the React way has been interesting and rewarding, as when I enter the job market if I get a React job things will be done like this.
+
